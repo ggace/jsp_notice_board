@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+#main{
+	width: 70%;
+	margin: 0 auto;
+	
+}
+
+#subtitle{
+	font-size: 180%;
+}
+
+#viewTitle{
+	width: 100%;
+	text-align: left;
+	height: 10%;
+	font-size: 150%;
+}
+
+#content{
+	width: 100%;
+	font-size: 150%;
+}

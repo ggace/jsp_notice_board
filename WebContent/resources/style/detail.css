@@ -1,0 +1,61 @@
+@charset "UTF-8";
+#main{
+	width: 70%;
+	margin: 0 auto;
+}
+
+#each{
+	clear: left;
+	border: 1px solid gray;
+}
+
+#each>li{
+	text-align: left;
+	float: left;
+	margin: 0;
+	padding:10px;
+	list-style: none;
+	
+	
+}
+
+#viewTitle{
+	font-size: 100%;
+	width: 100%;
+}
+#day{
+	font-size: 50%;
+	width: 7%;
+}
+
+
+#count{
+	font-size: 50%;
+	width: 5;
+}
+
+
+
+#content{
+	font-size: 95%;
+	width: 100%;
+	
+}
+
+#height{
+	width: 100%;
+	height: 250px;
+}
+
+#delete{
+	display: inline;
+	float: right;
+	margin: 2px;
+}
+#update{
+	display: inline;
+	float: right;
+	margin: 2px;
+}
+
+
